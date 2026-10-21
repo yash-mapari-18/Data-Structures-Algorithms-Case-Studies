@@ -25,3 +25,17 @@
 * **Operations:** Push, Pop, Enqueue, Dequeue
 * **Purpose:** Implement Stack and Queue dynamically using linked lists
 * **Time Complexity:** O(1) for basic operations
+
+### 5. Dictionary Application using Hash Table
+
+- **Data Structure:** Hash Table
+- **Technique:** Hashing with Collision Resolution
+- **Purpose:** Store, search, insert, and delete words with their meanings efficiently
+- **Time Complexity:** O(1) average case for basic operations
+
+### 6. Graph Traversal using BFS and DFS
+
+- **Data Structure:** Graph (Adjacency List)
+- **Algorithms:** Breadth-First Search (BFS) and Depth-First Search (DFS)
+- **Purpose:** Explore connected nodes and find paths in networks
+- **Time Complexity:** O(V + E)
