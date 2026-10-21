@@ -1,0 +1,40 @@
+===== Dictionary Application =====
+1. Insert Word
+2. Search Word
+3. Delete Word
+4. Display Hash Table
+5. Exit
+
+Enter your choice: 1
+Enter word: apple
+Enter meaning: A fruit
+Word inserted successfully!
+
+Enter your choice: 1
+Enter word: book
+Enter meaning: A collection of pages
+Word inserted successfully!
+
+Enter your choice: 2
+Enter word to search: apple
+Meaning of 'apple': A fruit
+
+Enter your choice: 4
+
+--- Hash Table ---
+Bucket 0: Empty
+Bucket 1: Empty
+Bucket 2: Empty
+Bucket 3: Empty
+Bucket 4: Empty
+Bucket 5: Empty
+Bucket 6: Empty
+Bucket 7: Empty
+Bucket 8: Empty
+Bucket 9: Empty
+
+Enter your choice: 5
+Exiting...
+
+Note:
+The exact bucket positions depend on the hash function and table size.

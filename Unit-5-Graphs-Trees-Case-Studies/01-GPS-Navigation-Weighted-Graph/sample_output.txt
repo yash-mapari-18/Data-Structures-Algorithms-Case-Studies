@@ -1,0 +1,23 @@
+===== GPS / Navigation System =====
+1. Display City Map
+2. BFS Traversal
+3. DFS Traversal
+4. Shortest Path (Dijkstra)
+5. Minimum Spanning Tree (Prim)
+6. Minimum Spanning Tree (Kruskal)
+7. Exit
+
+Enter your choice: 4
+Enter source: College
+Enter destination: Airport
+
+Shortest path: College -> Station -> Market -> Hospital -> Bus Stand -> Airport
+Distance: 21 km
+
+Enter your choice: 2
+Enter starting location: College
+BFS: College -> Station -> Hospital -> Market -> Mall -> Airport -> Bus Stand
+
+Enter your choice: 3
+Enter starting location: College
+DFS: College -> Station -> Market -> Mall -> Airport -> Hospital -> Bus Stand
